@@ -28,4 +28,4 @@ for i in range(7):
 			print(week[i+n%7 - 7])
 			
 #201903798 허준혁 [컴퓨터.전자 시스템 공학부]
-#touched by me 201903798
+#touched by me 
