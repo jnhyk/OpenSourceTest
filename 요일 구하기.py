@@ -1,6 +1,6 @@
 yy1, yy2 = input().split() #두 연도 입력
 yy1, yy2 = int(yy1), int(yy2) 
-day = input() # 요일 입력
+day = input()
 week = ['월','화','수','목','금','토','일'] #요일을 저장한 리스트
 n = 0 #요일 계산을 위한 변수
 count = 0 #두 연도 사이에 있는 윤년의 수를 넣을 변수
